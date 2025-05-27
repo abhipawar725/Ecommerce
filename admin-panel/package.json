@@ -13,6 +13,7 @@
     "@remixicon/react": "^4.6.0",
     "@tailwindcss/postcss": "^4.1.7",
     "axios": "^1.9.0",
+    "moment": "^2.30.1",
     "postcss": "^8.5.3",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
